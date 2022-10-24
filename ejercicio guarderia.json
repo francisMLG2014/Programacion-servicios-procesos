@@ -1,0 +1,40 @@
+{
+  "Guarderia":{
+    "nombre":"Jardin de infancia",
+    "direccion":"C.Albaricoque a la cazuela",
+    "añoApertura":2014,
+    "certificado":true,
+    "niños":[{"nombre":"Chris",
+            "añoNacimiento":2014,
+            "genero":"m",
+            "padres":[{"nombre":"Alicia","género":"f"
+                              }
+                      ]
+            },{"nombre":"Marta",
+            "añoNacimiento":2016,
+            "genero":"f",
+            "padres":[{"nombre":"Alberto",
+                                "género":"m"
+                      } 
+                      ]
+            }],
+    "profesores":[{"nombre":"Koro-Sensei",
+                  "añoNacimiento":2000,
+                  "genero":"m",
+                  "horaEntrada":8,
+                  "horaSalida":15,
+                  "diasTrabajando":["lunes","martes","miercoles","jueves","viernes"]
+                   },{"nombre":"Jose Luís",
+                  "añoNacimiento":2004,
+                  "genero":"m",
+                  "horaEntrada":9,
+                  "horaSalida":16,
+                  "diasTrabajando":["lunes","martes","jueves","viernes"]
+                   }]
+  }
+  
+  
+  
+  
+  
+}

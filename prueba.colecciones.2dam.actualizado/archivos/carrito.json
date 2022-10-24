@@ -1,0 +1,46 @@
+{
+  "carrito": [
+    {
+      "nombre": "Carne de añojo troceada para guisar Círculo de Calidad 600 g aprox",
+      "supermercado": "Carrefour",
+      "precio": 7.77,
+      "ultimaRevision": "23/09/2022 09:52:58",
+      "url": "https://www.carrefour.es/supermercado/carne-de-anojo-troceada-para-guisar-circulo-de-calidad-600-g-aprox/R-prod1070042/p?ic_source\u003dfood\u0026ic_medium\u003dundefined\u0026ic_content\u003dcat20002-productos-frescos"
+    },
+    {
+      "nombre": "Queso en Polvo especial pasta Carrefour sin gluten 150 g.",
+      "supermercado": "Carrefour",
+      "precio": 1.49,
+      "ultimaRevision": "23/09/2022 09:52:58",
+      "url": "https://www.carrefour.es/supermercado/queso-en-polvo-especial-pasta-carrefour-sin-gluten-150-g/R-fprod1350064/p?ic_source\u003dfood\u0026ic_medium\u003dundefined\u0026ic_content\u003dcat20002-productos-frescos"
+    },
+    {
+      "nombre": "Sacacorchos Camarero Uno",
+      "supermercado": "Carrefour",
+      "precio": 9.99,
+      "ultimaRevision": "23/09/2022 09:52:58",
+      "url": "https://www.carrefour.es/supermercado/sacacorcho-de-vino-de-acero-tescoma-uno-vino-13cm-rojo/R-836506423/p"
+    },
+    {
+      "nombre": "TV LED 139,7 cm (55\u0026quot;) Samsung UE55BU8505, 4K UHD, Smart TV",
+      "supermercado": "Carrefour",
+      "precio": 499.0,
+      "ultimaRevision": "23/09/2022 09:52:57",
+      "url": "https://www.carrefour.es/tv-led-1397-cm-55-samsung-ue55bu8505-4k-uhd-smart-tv/VC4A-18968403/p"
+    },
+    {
+      "nombre": "Recambios para aspirador nasal Rhinomer Narhinel Confort 10 ud.",
+      "supermercado": "Carrefour",
+      "precio": 5.65,
+      "ultimaRevision": "23/09/2022 09:52:57",
+      "url": "https://www.carrefour.es/supermercado/recambios-para-aspirador-nasal-rhinomer-narhinel-confort-10-ud/R-590504106/p"
+    },
+    {
+      "nombre": "Set 3 Filtros de agua con Microparticulas CARREFOUR HOME - Blanco",
+      "supermercado": "Carrefour",
+      "precio": 8.99,
+      "ultimaRevision": "23/09/2022 09:52:57",
+      "url": "https://www.carrefour.es/supermercado/set-3-filtros-de-agua-con-microparticulas-carrefour-home-blanco/R-787403889/p"
+    }
+  ]
+}

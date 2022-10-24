@@ -1,0 +1,13 @@
+[
+
+{"modelo":"Corsa","color":"Blanco","numeroPuertas":"5","matriculados":true,"año":2010,
+"casa":{"nombre":"Opel","añoFundacion":1862,"ciudadOrigen":"Russelsheim"}
+},
+{"modelo":"Vitara","color":"Dorado","numeroPuertas":"5","matriculados":true,"año":2020,
+"casa":{"nombre":"Suzuki","añoFundacion":1909,"ciudadOrigen":"Hamamatsu"}
+},
+{"modelo":"Tarraco","color":"Gris","numeroPuertas":"5","matriculados":false,"año":2015,
+"casa":{"nombre":"Seat","añoFundacion":1950,"ciudadOrigen":"Barcelona"}
+}
+
+]

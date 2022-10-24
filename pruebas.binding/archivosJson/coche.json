@@ -1,0 +1,12 @@
+{
+  "modelo": "Polo",
+  "color": "Negro",
+  "nPuertas": 5,
+  "matriculado": true,
+  "año": 2020,
+  "casa": {
+    "nombre": "Volkswagen",
+    "añoFundacion": 1937,
+    "ciudadOrigen": "Wolfsburgo"
+  }
+}

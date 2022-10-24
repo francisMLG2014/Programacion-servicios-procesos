@@ -1,0 +1,43 @@
+{
+  "nombreUsuario":"Mparamos",
+  "nombre":"Miguel",
+  "apellidos":"Páramos Albea",
+  "contrasenia":"123abc",
+  "email":"miguel.paramos@cenecmalaga.es",
+  "anioNacimiento":1986,
+  "baneado":false,
+  "productosDeseados":[
+		{ "nombre": "Sacacorchos Camarero Uno",
+		  "supermercado": "Carrefour",
+		  "precio": 9.99,
+		  "ultimaRevision": "22/09/2022 12:56:26",
+		  "url": "https://www.carrefour.es/supermercado/sacacorcho-de-vino-de-acero-tescoma-uno-vino-13cm-rojo/R-836506423/p"
+		},
+		{
+		  "nombre": "TV LED 139,7 cm (55\u0026quot;) Samsung UE55BU8505, 4K UHD, Smart TV",
+		  "supermercado": "Carrefour",
+		  "precio": 499.0,
+		  "ultimaRevision": "22/09/2022 12:56:25",
+		  "url": "https://www.carrefour.es/tv-led-1397-cm-55-samsung-ue55bu8505-4k-uhd-smart-tv/VC4A-18968403/p"
+		}
+	],
+	"comprasAnteriores":{
+		"Sacacorchos Camarero Uno":{ "nombre": "Sacacorchos Camarero Uno",
+		  "supermercado": "Carrefour",
+		  "precio": 9.99,
+		  "ultimaRevision": "22/09/2022 12:56:26",
+		  "url": "https://www.carrefour.es/supermercado/sacacorcho-de-vino-de-acero-tescoma-uno-vino-13cm-rojo/R-836506423/p"
+		},
+		"TV LED 139,7 cm (55\u0026quot;) Samsung UE55BU8505, 4K UHD, Smart TV":
+		{
+		  "nombre": "TV LED 139,7 cm (55\u0026quot;) Samsung UE55BU8505, 4K UHD, Smart TV",
+		  "supermercado": "Carrefour",
+		  "precio": 499.0,
+		  "ultimaRevision": "22/09/2022 12:56:25",
+		  "url": "https://www.carrefour.es/tv-led-1397-cm-55-samsung-ue55bu8505-4k-uhd-smart-tv/VC4A-18968403/p"
+		}
+	}
+}
+
+	
+

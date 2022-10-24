@@ -1,0 +1,27 @@
+{
+  "Clave":"Valor en String",
+  "Numero":4,
+  "EstasBien":true,
+  "Objeto Compuesto":{
+      "Nombre del objeto":"Lápiz",
+      "Precio estimado":2.1
+  },
+  "Categorias arrays":["Fruta","Vegetal de atun","Galleta" ]
+  
+  
+}
+
+
+
+
+
+
+Crear un json para almacenar los datos de una guardería, cuya raiz sea un objeto, con estas propiedades (Inventad los valores):
+nombre, direccion, añoApertura, certificado (boolean), niños, profesores.
+Tanto niños como profesores son arrays que contienen objetos.
+El array niños, contiene objetos niño. Cada niño tiene estas propiedades:
+nombre, añoNacimiento, genero, padres. Padres es un array de objetos padre/madre. Cada uno de esos objetos tendrá: nombre y genero. Poner al menos un padre por cada niño
+El array profesores contiene objetos profesor. Cada profesor tiene estas propiedades:
+nombre, añoNacimiento, genero, horaEntrada, HoraSalida y diasTrabajando. DiasTrabajando es un array de String con los valores de los días que se trabajan.
+
+Crear una guardería con al menos dos niños y dos profesores
